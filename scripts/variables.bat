@@ -1,0 +1,4 @@
+set USERNAME=
+set PASSWORD=
+set MAX_PLAYERS=32
+set DEFAULT_MAP=de_dust2
